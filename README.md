@@ -25,3 +25,12 @@ $ rails s
 ```bash
 http://localhost:3000/api/v1/articles
 ```
+# RESTful
+```bash
+GET    /api/v1/articles
+POST   /api/v1/articles     ~ api/v1/articles#create
+GET    /api/v1/articles/:id ~ api/v1/articles#show
+PATCH  /api/v1/articles/:id ~ api/v1/articles#update
+PUT    /api/v1/articles/:id  ~ api/v1/articles#update
+DELETE /api/v1/articles/:id ~ api/v1/articles#destroy
+```
