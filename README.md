@@ -1,6 +1,6 @@
 # SIMPLE RAILS 5 REST API
 
-Example of a basic REST API to perform CRUD functions. Uses Sqli3 by default. Please add your own database and credentials
+Example of a basic REST API to perform CRUD functions. Uses Sqlie3  & rails new railsresful --api
 
 ## INSTALL DEPENDENCIES
 ```bash
