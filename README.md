@@ -11,7 +11,10 @@ $ bundle install
 ```bash
 $ rails db:migrate
 ```
-
+## RUN SEEDS
+```bash
+$ rails db:seed
+```
 ## RUN SERVER
 ```bash
 $ rails s
